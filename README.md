@@ -1,6 +1,7 @@
 # Algoritmia Time
 
-Personal project to practice different algorithms using Python as main language.
+Personal project to practice different algorithms
+.
 The aim of this project is to learn and understand the most common algorithms to solve problems in computer science.
 
 Learn, practice, repeat.
