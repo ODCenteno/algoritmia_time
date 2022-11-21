@@ -1,0 +1,24 @@
+{
+  "name": "algoritmia_time",
+  "version": "1.0.0",
+  "description": "Personal project to practice different algorithms . The aim of this project is to learn and understand the most common algorithms to solve problems in computer science.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ODCenteno/algoritmia_time.git"
+  },
+  "author": "ODCenteno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ODCenteno/algoritmia_time/issues"
+  },
+  "homepage": "https://github.com/ODCenteno/algoritmia_time#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}

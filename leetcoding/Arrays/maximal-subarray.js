@@ -35,6 +35,7 @@
     return maxSum;
   }
 
+module.exports = { getMaxSubSum };
 
 let result =  getMaxSubSum([-1, 2, 3, -9]) // == 5 (the sum of highlighted items)
 // let result = getMaxSubSum([2, -1, 2, 3, -9]) == 6
